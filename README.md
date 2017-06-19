@@ -3,3 +3,5 @@ This tool checks the integrity of files. It is very important if you don’t wan
 I have tried to keep the file size to a minimum. And currently, the file size is 20.7 kB (20,701 bytes). 
 
 Anyone can inspect the source code and use it to modify, develop and redistribute.
+
+![Screenshot](https://a.fsdn.com/con/app/proj/jchecksum-md5/screenshots/Screenshot%20from%202017-06-19%2017-50-32.png/1 "Sourceforge image")
